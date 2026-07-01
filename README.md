@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-I am a final-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica*. I am deeply passionate about **Full-Stack Web Development** and building efficient software solutions, combining solid programming foundations with modern AI-assisted development tools and Agile methodologies.
+I am a third-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica*. I am deeply passionate about **Full-Stack Web Development** and building efficient software solutions, combining solid programming foundations with modern AI-assisted development tools and Agile methodologies.
 
 I have immediate availability and am highly motivated to begin my professional career in software development or IT-related roles.
 
@@ -16,26 +16,28 @@ I have immediate availability and am highly motivated to begin my professional c
 
 ### 🛠️ Technical Skills
 
-Here is the complete overview of the technologies, frameworks, and methodologies I integrate into my development workflows:
-
 #### 🔮 Frontend Development
-*   **Languages & Core:** HTML5, CSS3, JavaScript (Object-Oriented Programming and DOM manipulation).
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+
+*   **Core Concepts:** Object-Oriented Programming (OOP) and DOM manipulation.
 
 #### ⚙️ Backend Development & Databases
-*   **Languages & Frameworks:** PHP, Laravel, Java, C++.
-*   **Integration & Persistence:** REST API integration, SQL, MySQL (advanced database management).
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+
+*   **Integration:** REST API integration and SQL advanced database management.
 
 #### 🤖 AI-Assisted Development & Core Concepts
-*   **Tools & APIs:** GitHub Copilot, Cline, Gemini API integration.
-*   **Advanced Concepts:** Agentic workflows, LLM architecture basics.
+<img src="https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Gemini API">
+
+*   **Advanced Focus:** Cline, Agentic workflows, and LLM architecture basics.
 
 #### 🚀 Version Control & DevOps (Agile)
-*   **Environments & Platforms:** Git, GitHub, Azure DevOps.
-*   **Methodologies:** Scrum (Certified as a *Scrum Foundation Professional Certification - SFPC™*).
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps">
 
-#### 💻 Operating Systems & Productivity Tools
-*   **OS:** Ubuntu Linux, Windows.
-*   **Productivity:** MS Office (Intermediate Excel).
+*   **Methodologies:** Scrum framework (Certified as *SFPC™*).
+
+#### 💻 Operating Systems & Tools
+<img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 
 ---
 
