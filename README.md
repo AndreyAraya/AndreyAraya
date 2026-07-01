@@ -8,9 +8,9 @@
 ---
 
 ### 🌟 About Me
-I am a final-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica* (2023-2027)[cite: 2]. I am deeply passionate about **Full-Stack Web Development** and building efficient software solutions, combining solid programming foundations with modern AI-assisted development tools and Agile methodologies[cite: 2].
+I am a final-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica*. I am deeply passionate about **Full-Stack Web Development** and building efficient software solutions, combining solid programming foundations with modern AI-assisted development tools and Agile methodologies.
 
-I have immediate availability and am highly motivated to begin my professional career in software development or IT-related roles[cite: 2].
+I have immediate availability and am highly motivated to begin my professional career in software development or IT-related roles.
 
 ---
 
@@ -19,42 +19,42 @@ I have immediate availability and am highly motivated to begin my professional c
 Here is the complete overview of the technologies, frameworks, and methodologies I integrate into my development workflows:
 
 #### 🔮 Frontend Development
-*   **Languages & Core:** HTML5, CSS3, JavaScript (Object-Oriented Programming and DOM manipulation)[cite: 2].
+*   **Languages & Core:** HTML5, CSS3, JavaScript (Object-Oriented Programming and DOM manipulation).
 
 #### ⚙️ Backend Development & Databases
-*   **Languages & Frameworks:** PHP, Laravel, Java, C++[cite: 2].
-*   **Integration & Persistence:** REST API integration, SQL, MySQL (advanced database management)[cite: 2].
+*   **Languages & Frameworks:** PHP, Laravel, Java, C++.
+*   **Integration & Persistence:** REST API integration, SQL, MySQL (advanced database management).
 
 #### 🤖 AI-Assisted Development & Core Concepts
-*   **Tools & APIs:** GitHub Copilot, Cline, Gemini API integration[cite: 2].
-*   **Advanced Concepts:** Agentic workflows, LLM architecture basics[cite: 2].
+*   **Tools & APIs:** GitHub Copilot, Cline, Gemini API integration.
+*   **Advanced Concepts:** Agentic workflows, LLM architecture basics.
 
 #### 🚀 Version Control & DevOps (Agile)
-*   **Environments & Platforms:** Git, GitHub, Azure DevOps[cite: 2].
-*   **Methodologies:** Scrum (Certified as a *Scrum Foundation Professional Certification - SFPC™*)[cite: 2].
+*   **Environments & Platforms:** Git, GitHub, Azure DevOps.
+*   **Methodologies:** Scrum (Certified as a *Scrum Foundation Professional Certification - SFPC™*).
 
 #### 💻 Operating Systems & Productivity Tools
-*   **OS:** Ubuntu Linux, Windows[cite: 2].
-*   **Productivity:** MS Office (Intermediate Excel)[cite: 2].
+*   **OS:** Ubuntu Linux, Windows.
+*   **Productivity:** MS Office (Intermediate Excel).
 
 ---
 
 ### 📜 Certifications
-*   **Scrum Foundation Professional Certification (SFPC™)** – *CertiProf*[cite: 2]
-*   **Domina la IA con Gemini** – *Santander Open Academy & Google*[cite: 2]
-*   **Introduction to Cybersecurity** – *Cisco Networking Academy*[cite: 2]
-*   **Intermediate Excel** – *Santander Open Academy*[cite: 2]
+*   **Scrum Foundation Professional Certification (SFPC™)** – *CertiProf*
+*   **Domina la IA con Gemini** – *Santander Open Academy & Google*
+*   **Introduction to Cybersecurity** – *Cisco Networking Academy*
+*   **Intermediate Excel** – *Santander Open Academy*
 
 ---
 
 ### 🎯 Current Focus & Language Proficiency
-*   🔭 **Currently working on:** Developing and deploying functional full-stack web applications using JavaScript, PHP, and MySQL[cite: 2].
-*   🌱 **Currently learning:** Deepening my knowledge in advanced Agentic workflows and LLM architectures[cite: 2].
-*   🗣️ **Languages:** Spanish (Native) | English (B2+ level certified by Universidad Técnica Nacional)[cite: 2].
+*   🔭 **Currently working on:** Developing and deploying functional full-stack web applications using JavaScript, PHP, and MySQL.
+*   🌱 **Currently learning:** Deepening my knowledge in advanced Agentic workflows and LLM architectures.
+*   🗣️ **Languages:** Spanish (Native) | English (B2+ level certified by Universidad Técnica Nacional).
 
 ---
 
 ### ⚡ Professional Background Highlight
-For 5 years (2020-2025), I worked as a **Store Administrator at TecnoPhone**[cite: 2]. Beyond team management and operations, this role allowed me to build strong, hands-on IT skills[cite: 2]:
-*   **Internal Technical Support:** Troubleshooting complex hardware, software, network configurations, and device connectivity issues[cite: 2].
-*   **Analytical Approach:** Managing inventory systems and generating operational reporting to back up data-driven decisions under pressure[cite: 2].
+For 5 years (2020-2025), I worked as a **Store Administrator at TecnoPhone**. Beyond team management and operations, this role allowed me to build strong, hands-on IT skills:
+*   **Internal Technical Support:** Troubleshooting complex hardware, software, network configurations, and device connectivity issues.
+*   **Analytical Approach:** Managing inventory systems and generating operational reporting to back up data-driven decisions under pressure.
