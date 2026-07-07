@@ -43,15 +43,15 @@ My approach combines modern full-stack architectures with **AI-assisted developm
 
 ### 🚀 Featured Projects
 
-📁 **[MotoHub Motorcycle Dealership System](https://github.com/AndreyAraya)**
+📁 **[MotoHub Motorcycle Dealership System](https://github.com/AndreyAraya/MotoHub.git)**
 * **Description:** A robust, full-stack web platform engineered to streamline multi-role client reservations, manage administrative approval pipelines, and automate inventory tracking.
 * **Stack:** `Laravel` | `PHP` | `SQL Server` | `Docker` | `Linux`
 
-📁 **[Real-Time Chess Game Simulation](https://github.com/AndreyAraya)**
+📁 **[Real-Time Chess Game Simulation](https://github.com/AndreyAraya/Real-Time-Chess-Game-Simulation.git)**
 * **Description:** A synchronized multiplayer chess web application implementing intricate game-state validation logic. Features real-time bidirectional messaging and local server network exposure.
 * **Stack:** `PHP` | `JavaScript` | `MySQL` | `Pusher API` | `ngrok`
 
-📁 **[The GameVault - Digital Store & Library](https://github.com/AndreyAraya)**
+📁 **[The GameVault - Digital Store & Library](https://github.com/AndreyAraya/The-GameVault.git)**
 * **Description:** An MVC video game marketplace platform built around secure role-based access controls, enabling complete catalog CRUD management and custom library organization.
 * **Stack:** `Laravel` | `PHP` | `MySQL`
 
