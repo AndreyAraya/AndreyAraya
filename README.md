@@ -1,47 +1,47 @@
 # Hi there! [cite_start]I'm Carlos Andrey Araya Quirós 👋 [cite: 1]
 
 <p align="left">
-  <a href="mailto:arayaquiroscarlosandrey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/AndreyAraya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/carlosarayaquiros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  [cite_start]<a href="mailto:arayaquiroscarlosandrey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> [cite: 2]
+  [cite_start]<a href="https://github.com/AndreyAraya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> [cite: 3]
+  [cite_start]<a href="https://linkedin.com/in/carlosarayaquiros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [cite: 3]
 </p>
 
 ---
 
 ### 🌟 About Me
-[cite_start]I am a third-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica*[cite: 5, 33]. [cite_start]I am deeply passionate about **Full-Stack Web Development** and software engineering, specializing in building robust application logic, designing relational databases, and translating complex business requirements into functional, scalable technical solutions. 
+[cite_start]I am a third-year **Information Systems Engineering** student [cite: 5] [cite_start]at *Universidad Nacional de Costa Rica*[cite: 33]. [cite_start]I am deeply passionate about **Full-Stack Web Development** and software engineering [cite: 5][cite_start], specializing in building robust application logic, designing relational databases, and translating complex business requirements into functional, scalable technical solutions[cite: 6]. 
 
-[cite_start]My approach combines modern full-stack architectures with **AI-assisted development workflows** (Copilot, Cline) and **Agile methodologies** (Scrum) to deliver clean, efficient, and well-documented code[cite: 5, 7, 18].
+[cite_start]My approach combines modern full-stack architectures with **AI-assisted development workflows** like Copilot and Cline [cite: 5, 18] [cite_start]and **Agile methodologies** like Scrum [cite: 7, 18] to deliver clean, efficient, and well-documented code.
 
 ---
 
 ### 🛠️ Technical Skills
 
 #### 🔮 Frontend Development
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+[cite_start]<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> [cite: 14]
 
-* [cite_start]**Core Focus:** Responsive web design, DOM manipulation, and Object-Oriented Programming (OOP)[cite: 11, 14].
+* **Core Focus:** Responsive web design, DOM manipulation, and Object-Oriented Programming (OOP).
 
 #### ⚙️ Backend Development & Databases
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+[cite_start]<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"> [cite: 12, 14]
 
-* [cite_start]**Capabilities:** MVC architecture, relational database design, query optimization, and secure role-based access control[cite: 11, 21, 25].
+* [cite_start]**Capabilities:** MVC architecture, relational database design, query optimization, and secure role-based access control[cite: 6, 11, 25].
 * [cite_start]**APIs & Protocols:** REST APIs, Pusher API (Real-time data), and Gemini API integration[cite: 15].
 
 #### 🤖 AI-Assisted Development & Automation
-<img src="https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Gemini API">
+[cite_start]<img src="https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Gemini API"> [cite: 18]
 
 * [cite_start]**Advanced Workflows:** Hands-on experience with Cline, Agentic workflows, and LLM architecture integration to optimize SDLC phases[cite: 11, 18].
 
 #### 🚀 DevOps, Tools & Methodologies
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+[cite_start]<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"> [cite: 17]
 
-* [cite_start]**Agile Management:** Managing project backlogs, requirements traceability, and sprint dependencies within Azure DevOps under the Scrum Framework[cite: 7, 11].
+* [cite_start]**Agile Management:** Managing project backlogs, requirements traceability, and sprint dependencies within Azure DevOps under the Scrum Framework[cite: 7, 18].
 * [cite_start]**Environments:** Containerized local environments (Docker), network exposure tools (ngrok), and Linux server environments[cite: 17, 21, 23].
 
 ---
 
-### [cite_start]🚀 Featured Projects [cite: 19]
+### 🚀 Featured Projects
 
 [cite_start]📁 **[MotoHub Motorcycle Dealership System](https://github.com/AndreyAraya)** [cite: 20]
 * [cite_start]**Description:** A robust, full-stack web platform engineered to streamline multi-role client reservations, manage administrative approval pipelines, and automate inventory tracking[cite: 21].
@@ -66,7 +66,7 @@
 ---
 
 ### 🎯 Current Focus & Language Proficiency
-* [cite_start]🔭 **Currently working on:** Developing and deploying production-ready full-stack applications with an emphasis on data integrity and user experience.
+* [cite_start]🔭 **Currently working on:** Developing and deploying production-ready full-stack applications with an emphasis on data integrity and user experience[cite: 6].
 * [cite_start]🌱 **Currently learning:** Deepening technical knowledge in advanced Agentic workflows and multi-agent LLM systems[cite: 18].
 * 🗣️ **Languages:** Spanish (Native) | [cite_start]English (B2+ Professional Level certified by *Universidad Técnica Nacional*)[cite: 34, 41].
 
