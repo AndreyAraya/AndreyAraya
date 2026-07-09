@@ -15,6 +15,14 @@ My approach combines standard architectures with **AI-assisted development** and
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreyAraya&show_icons=true&theme=radical&rank_icon=github" alt="Carlos's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAraya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ### 🛠️ Technical Skills
 
 #### 🔮 Frontend Development
