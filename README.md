@@ -33,7 +33,7 @@ My approach combines standard architectures with **AI-assisted engineering** and
 * **Advanced Tooling:** Utilizing Cline, GitHub Copilot, and LLM orchestration to streamline SDLC phases and optimize code quality.
 
 #### 🚀 DevOps, Infrastructure & Agile
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&技巧=white" alt="Docker"> <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
 
 * **Agile Management:** Managing backlogs, user stories, and requirements traceability within Azure DevOps.
 * **Environments:** Containerized workflows (Docker), Linux environments, and local server tunneling (ngrok).
@@ -50,14 +50,6 @@ My approach combines standard architectures with **AI-assisted engineering** and
 
 🎮 **[The GameVault -- Digital Store & Library](https://github.com/AndreyAraya/The-GameVault.git)**
 * Created an MVC video game marketplace platform using Laravel, PHP, and MySQL with secure role-based access control for library management and catalog CRUD operations.
-
----
-
-### 📊 GitHub Metrics & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreyAraya&show_icons=true&theme=radical&rank_icon=github" alt="Carlos's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAraya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
