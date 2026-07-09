@@ -1,4 +1,4 @@
-# Hi there! I'm Carlos Andrey Araya Quirós 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Carlos%20Andrey!%20👋&fontSize=35&animation=twinkling" alt="Header Animado" />
 
 <p align="left">
   <a href="mailto:arayaquiroscarlosandrey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -15,11 +15,12 @@ My approach combines standard architectures with **AI-assisted development** and
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreyAraya&show_icons=true&theme=radical&rank_icon=github" alt="Carlos's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAraya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+### 📊 GitHub Activity & Metrics
+Aquí puedes ver un resumen en tiempo real de mi actividad y los lenguajes en los que más he estado construyendo proyectos:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreyAraya&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAraya&layout=compact&theme=radical)
 
 ---
 
