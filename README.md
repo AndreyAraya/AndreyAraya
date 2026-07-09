@@ -11,7 +11,7 @@
 ### 🌟 About Me
 I am a third-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica*, deeply passionate about **Full-Stack Web Development** and Software Engineering. I specialize in building robust application logic, designing optimized relational databases, and architecting modern full-stack solutions.
 
-My approach combines standard architectures with **AI-assisted engineering** and **Agile methodologies (Scrum)** to deliver clean, efficient, and highly scalable code.
+My approach combines standard architectures with **AI-assisted development** and **Agile methodologies (Scrum)** to deliver clean, efficient, and well-documented code.
 
 ---
 
@@ -30,12 +30,12 @@ My approach combines standard architectures with **AI-assisted engineering** and
 #### 🤖 AI-Assisted Development & Workflows
 <img src="https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Gemini API">
 
-* **Advanced Tooling:** Utilizing Cline, GitHub Copilot, and LLM orchestration to streamline SDLC phases and optimize code quality.
+* **Tool Configuration & Prompting:** Leveraging AI tools like GitHub Copilot and Cline alongside efficient prompting techniques to streamline development and boost code quality.
 
 #### 🚀 DevOps, Infrastructure & Agile
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
 
-* **Agile Management:** Managing backlogs, user stories, and requirements traceability within Azure DevOps.
+* **Agile Management:** Managing backlogs, user stories, and requirements traceability within Azure DevOps under the Scrum Framework.
 * **Environments:** Containerized workflows (Docker), Linux environments, and local server tunneling (ngrok).
 
 ---
@@ -54,8 +54,8 @@ My approach combines standard architectures with **AI-assisted engineering** and
 ---
 
 ### 🎯 Current Focus & Language Proficiency
-* 🔭 **Currently working on:** Designing highly interactive full-stack architectures with automated test suites and ironclad database constraints.
-* 🌱 **Currently learning:** Diving deep into **Generative AI integration**, building custom agentic workflows, and mastering advanced prompting methodologies for developer productivity.
+* 🔭 **Currently working on:** Building robust full-stack web applications with clean architecture and optimized database queries.
+* 🌱 **Currently learning:** Exploring **Generative AI capabilities** and advanced prompting methodologies to build smart features and optimize developer workflow.
 * 🗣️ **Languages:** Spanish (Native) | English (B2+ Professional Level certified by *Universidad Técnica Nacional*).
 
 ---
@@ -63,11 +63,10 @@ My approach combines standard architectures with **AI-assisted engineering** and
 ### 📜 Certifications
 * 🥇 **Scrum Foundation Professional Certification (SFPC™)** – *CertiProf*
 * 🤖 **Domina la IA con Gemini** – *Santander Open Academy & Google*
-* 🛡️ **Introduction to Cybersecurity** – *Cisco Networking Academy*
 
 ---
 
 ### ⚡ Professional Background Highlight
 During my 5 years (2020-2025) as a **Store Administrator & Operations Lead at TecnoPhone**, I bridged the gap between operational management and technical problem-solving:
-* **Internal Technical Support:** Resolved complex hardware, software, and networking issues across enterprise devices, reducing local operational downtime by 20%.
+* **Internal Technical Support:** Resolved hardware, software, and networking issues across enterprise devices, reducing local operational downtime by 20%.
 * **Data Control & Reporting:** Built analytical reports and optimized stock audit pipelines, increasing overall inventory precision by 12%.
