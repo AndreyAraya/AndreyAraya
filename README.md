@@ -9,9 +9,9 @@
 ---
 
 ### 🌟 About Me
-I am a third-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica*. I am deeply passionate about **Full-Stack Web Development** and software engineering, specializing in building robust application logic, designing relational databases, and translating complex business requirements into functional, scalable technical solutions.
+I am a third-year **Information Systems Engineering** student at *Universidad Nacional de Costa Rica*, deeply passionate about **Full-Stack Web Development** and Software Engineering. I specialize in building robust application logic, designing optimized relational databases, and architecting modern full-stack solutions.
 
-My approach combines modern full-stack architectures with **AI-assisted development workflows** like Copilot and Cline and **Agile methodologies** like Scrum to deliver clean, efficient, and well-documented code.
+My approach combines standard architectures with **AI-assisted engineering** and **Agile methodologies (Scrum)** to deliver clean, efficient, and highly scalable code.
 
 ---
 
@@ -20,24 +20,51 @@ My approach combines modern full-stack architectures with **AI-assisted developm
 #### 🔮 Frontend Development
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
-* **Core Focus:** Responsive web design, DOM manipulation, and Object-Oriented Programming (OOP).
+* **Core Focus:** Responsive web environments, DOM manipulation, and modern frontend logic.
 
 #### ⚙️ Backend Development & Databases
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 
-* **Capabilities:** MVC architecture, relational database design, query optimization, and secure role-based access control.
-* **APIs & Protocols:** REST APIs, Pusher API (Real-time data), and Gemini API integration.
+* **Capabilities:** MVC architecture, relational database design, secure role-based access control (RBAC), and API integration (REST APIs, Pusher API for real-time events).
 
-#### 🤖 AI-Assisted Development & Automation
+#### 🤖 AI-Assisted Development & Workflows
 <img src="https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Gemini API">
 
-* **Advanced Workflows:** Hands-on experience with Cline, Agentic workflows, and LLM architecture integration to optimize SDLC phases.
+* **Advanced Tooling:** Utilizing Cline, GitHub Copilot, and LLM orchestration to streamline SDLC phases and optimize code quality.
 
-#### 🚀 DevOps, Tools & Methodologies
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+#### 🚀 DevOps, Infrastructure & Agile
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&技巧=white" alt="Docker"> <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
 
-* **Agile Management:** Managing project backlogs, requirements traceability, and sprint dependencies within Azure DevOps under the Scrum Framework.
-* **Environments:** Containerized local environments (Docker), network exposure tools (ngrok), and Linux server environments.
+* **Agile Management:** Managing backlogs, user stories, and requirements traceability within Azure DevOps.
+* **Environments:** Containerized workflows (Docker), Linux environments, and local server tunneling (ngrok).
+
+---
+
+### 📂 Featured Projects
+
+🎵 **[MotoHub -- Motorcycle Dealership System](https://github.com/AndreyAraya/MotoHub.git)**
+* Developed a full-stack web platform using Laravel, PHP, and SQL Server (Docker/Linux) featuring multi-role client reservations, administrative approval pipelines, and automated inventory control.
+
+♟️ **[Real-Time Chess Game Simulation](https://github.com/AndreyAraya/Real-Time-Chess-Game-Simulation.git)**
+* Developed a synchronized multiplayer chess web application using PHP, JavaScript, and MySQL, implementing complex game-state logic and integrating Pusher API for real-time live updates alongside ngrok for network server exposure.
+
+🎮 **[The GameVault -- Digital Store & Library](https://github.com/AndreyAraya/The-GameVault.git)**
+* Created an MVC video game marketplace platform using Laravel, PHP, and MySQL with secure role-based access control for library management and catalog CRUD operations.
+
+---
+
+### 📊 GitHub Metrics & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreyAraya&show_icons=true&theme=radical&rank_icon=github" alt="Carlos's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAraya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🎯 Current Focus & Language Proficiency
+* 🔭 **Currently working on:** Designing highly interactive full-stack architectures with automated test suites and ironclad database constraints.
+* 🌱 **Currently learning:** Diving deep into **Generative AI integration**, building custom agentic workflows, and mastering advanced prompting methodologies for developer productivity.
+* 🗣️ **Languages:** Spanish (Native) | English (B2+ Professional Level certified by *Universidad Técnica Nacional*).
 
 ---
 
@@ -45,18 +72,10 @@ My approach combines modern full-stack architectures with **AI-assisted developm
 * 🥇 **Scrum Foundation Professional Certification (SFPC™)** – *CertiProf*
 * 🤖 **Domina la IA con Gemini** – *Santander Open Academy & Google*
 * 🛡️ **Introduction to Cybersecurity** – *Cisco Networking Academy*
-* 📊 **Intermediate Excel** – *Santander Open Academy*
-
----
-
-### 🎯 Current Focus & Language Proficiency
-* 🔭 **Currently working on:** Developing and deploying production-ready full-stack applications with an emphasis on data integrity and user experience.
-* 🌱 **Currently learning:** Deepening technical knowledge in advanced Agentic workflows and multi-agent LLM systems.
-* 🗣️ **Languages:** Spanish (Native) | English (B2+ Professional Level certified by *Universidad Técnica Nacional*).
 
 ---
 
 ### ⚡ Professional Background Highlight
-During my 5 years (2020-2025) as a **Store Administrator & Operations Lead at TecnoPhone**, I leveraged my engineering background to optimize internal processes through a data-driven approach:
-* **Internal Technical Support:** Troubleshooted and fixed complex hardware, software, and networking configurations, cutting local system downtime by 20%.
-* **Data Analysis & Auditing:** Automated inventory controls and built analytical reports that boosted stock precision by 12%, using metrics to drive real business decisions under pressure.
+During my 5 years (2020-2025) as a **Store Administrator & Operations Lead at TecnoPhone**, I bridged the gap between operational management and technical problem-solving:
+* **Internal Technical Support:** Resolved complex hardware, software, and networking issues across enterprise devices, reducing local operational downtime by 20%.
+* **Data Control & Reporting:** Built analytical reports and optimized stock audit pipelines, increasing overall inventory precision by 12%.
