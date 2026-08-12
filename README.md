@@ -1,4 +1,4 @@
-# Hi there! I'm Carlos Andrey Araya Quirós 👋
+# Hi there! I'm Carlos Andrey Araya Quirós
 
 <p align="left">
   <a href="mailto:arayaquiroscarlosandrey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
