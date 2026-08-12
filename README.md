@@ -63,10 +63,3 @@ My approach combines standard architectures with **AI-assisted development** and
 ### 📜 Certifications
 * 🥇 **Scrum Foundation Professional Certification (SFPC™)** – *CertiProf*
 * 🤖 **Domina la IA con Gemini** – *Santander Open Academy & Google*
-
----
-
-### ⚡ Professional Background Highlight
-During my 5 years (2020-2025) as a **Store Administrator & Operations Lead at TecnoPhone**, I bridged the gap between operational management and technical problem-solving:
-* **Internal Technical Support:** Resolved hardware, software, and networking issues across enterprise devices, reducing local operational downtime by 20%.
-* **Data Control & Reporting:** Built analytical reports and optimized stock audit pipelines, increasing overall inventory precision by 12%.
